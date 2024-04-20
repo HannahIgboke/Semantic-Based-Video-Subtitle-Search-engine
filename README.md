@@ -55,7 +55,7 @@ In the course of this project the following tools and languages were utilized:
 - Streamlit 
 - Google Colab
 
-You can also find the project report [here](https://github.com/HannahIgboke/Semantic-Based-Video-Subtitle-Search-engine/blob/main/Semantic%20based%20search%20engine%20-%20Report.pdf) as well.
+You can also find the project report [here](https://github.com/HannahIgboke/Semantic-Based-Video-Subtitle-Search-engine/blob/main/Semantic-based%20search%20engine%20project%20-%20Report.pdf) as well.
 
 
 # Final output
